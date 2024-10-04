@@ -1,0 +1,5 @@
+/datasets/
+/yolo/
+.DS_Store
+runs/detect/train/weights
+yolo11s.pt
