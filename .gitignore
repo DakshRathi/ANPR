@@ -3,3 +3,7 @@
 .DS_Store
 runs/detect/train/weights
 yolo11s.pt
+
+__pycache__
+/sort
+/assets/
